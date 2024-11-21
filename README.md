@@ -1,3 +1,14 @@
+
+# IT3133 React Practicals
+
+This repository contains practical exercises for the IT3133 Mobile Computing course, focused on learning and applying ReactJS for building user interfaces. The exercises cover various aspects of React development, including:
+
+- **Project Setup**: Using Create React App for initializing React projects.
+- **Component Design**: Building reusable and modular React components.
+- **State and Props**: Managing data within components and sharing data between them.
+- **React Hooks**: Using hooks like `useState` and `useEffect` for managing state and side effects.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
