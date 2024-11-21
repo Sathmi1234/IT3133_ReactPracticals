@@ -1,0 +1,14 @@
+.first-class {
+    color: green;
+    font-weight: bold;
+}
+
+.second-upper {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.second-lower {
+    color: orange;
+    font-weight: bold;
+}

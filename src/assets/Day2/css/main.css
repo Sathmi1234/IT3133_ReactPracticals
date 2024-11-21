@@ -1,0 +1,25 @@
+.heading{
+    font-size: 40px;
+    color: darkgoldenrod;
+    font-family: Arial;
+    text-align: center;
+}
+
+.maincard{
+    display: grid;
+    grid-template-columns: 30% 40%;
+    background-color: darkseagreen;
+    margin: 10px;
+    border-color: brown;
+    border-style: dashed;
+}
+
+.profile{
+    width: 100px;
+    height: 100px;
+    border-radius: 45%;
+}
+.details{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
