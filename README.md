@@ -43,7 +43,6 @@ This repository is regularly updated with weekly practicals and assignments to s
 
 ## 💻 Details about Practicals and Assignments
 
-| Date       |      |Details                                             |
 |------------|------|---------------------------------------------------|
 | 2024-10-08 | Day2 | [Details](./src/componenets/Day2_08_10/README.md)                      |
 | 2024-10-15 | Day3 | [Details](./src/componenets/Day3_15_10/README.md)                      |
@@ -73,15 +72,16 @@ IT3133_ReactPracticals/
 │   │   │── Day6/
 │   │   │── Day7/ 
 │   ├── assets/
-│   ├── App.js  # Root component
-│   ├── index.js  # Entry point
+│   ├── App.js  
+│   ├── index.js  
 
 ```
 
 
 ## 👩‍💻 Author
 
-Developed by [Sathmi1234](https://github.com/Sathmi1234).  
+Developed by [Sathmi1234](https://github.com/Sathmi1234). 
+Registration No: 2020/ICT/117 (University of Vavuniya) 
 Feel free to reach out for collaboration or questions!
 
 ---
