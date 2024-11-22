@@ -72,5 +72,5 @@ src/
 
 ---
 
-### Output Example
+### Output
 ![Output](./Output.png)  
