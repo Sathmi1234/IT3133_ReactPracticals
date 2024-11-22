@@ -1,7 +1,3 @@
-### README.md for React Application with Bootstrap Integration
-
-# React Bootstrap Demo Application
-
 This project demonstrates the usage of React with **React-Bootstrap** for building a dynamic and interactive application. It includes components for managing books, displaying student information, and performing operations through parent-child communication with props.
 
 ---
