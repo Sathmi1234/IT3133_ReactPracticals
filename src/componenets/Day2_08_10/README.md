@@ -72,4 +72,4 @@ src/
 ---
 
 ### Output
-![Output](./output/Output.png)
+![Output](./Output.png)
