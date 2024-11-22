@@ -1,4 +1,4 @@
-import '../assets/Day2/css/main.css'
+import '../../assets/Day2/css/main.css'
 export default function People({detail}){
     return(
         <div className="maincard">
