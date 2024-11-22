@@ -1,5 +1,3 @@
-# React Calculator App
-
 This React project is a **simple calculator application** with dynamic theming and font size adjustment. It showcases state management using `useState`, component reusability, and a clean, responsive design.
 
 ---
