@@ -43,15 +43,18 @@ This repository is regularly updated with weekly practicals and assignments to s
 
 ## 💻 Details about Practicals and Assignments
 
-| 2024-10-08 | Day2 | [Details](./src/componenets/Day2_08_10/README.md)                      |
-| 2024-10-15 | Day3 | [Details](./src/componenets/Day3_15_10/README.md)                      |
-| 2024-10-22 | Day4 | [Details](./src/componenets/Day4_22_10/README.md)                      |
-| 2024-10-28 | Assignment1 | [Details](./src/componenets/Assignment1/README.md)               |
-| 2024-10-29 | Day5 | [Details](./src/componenets/Day5_29_10/README.md)                      |
-| 2024-11-05 | Day6 | [Details](./src/componenets/Day6_05_11/README.md)                      |
-| 2024-11-07 | Assignment2 | [Details](./src/componenets/Assignment2/README.md)               |
-| 2024-11-19 | Assignment3 | [Details](https://github.com/Sathmi1234/2020ICT117_IT3133_Assignment3_StudentInformationPortal.git)               |
-| 2024-11-19 | Day7 | [Details](./src/componenets/Day7_19_11/README.md)                      |
+| Date       |      |Details                                             |
+|------------|------|---------------------------------------------------|
+| 2024-10-08 | Day 2 | [Details](./src/componenets/Day2_08_10/README.md)                      |
+| 2024-10-15 | Day 3 | [Details](./src/componenets/Day3_15_10/README.md)                      |
+| 2024-10-22 | Day 4 | [Details](./src/componenets/Day4_22_10/README.md)                      |
+| 2024-10-28 | Assignment 1 | [Details](./src/componenets/Assignment1/README.md)               |
+| 2024-10-29 | Day 5 | [Details](./src/componenets/Day5_29_10/README.md)                      |
+| 2024-11-05 | Day 6 | [Details](./src/componenets/Day6_05_11/README.md)                      |
+| 2024-11-07 | Assignment 2 | [Details](./src/componenets/Assignment2/README.md)               |
+| 2024-11-19 | Assignment 3 | [Details](https://github.com/Sathmi1234/2020ICT117_IT3133_Assignment3_StudentInformationPortal.git)               |
+| 2024-11-19 | Day 7 | [Details](./src/componenets/Day7_19_11/README.md)                      |
+| 2024-11-22 | Assignment 4 | [Details](./src/componenets/Day7_19_11/README.md)                      |
 
 ---
 
