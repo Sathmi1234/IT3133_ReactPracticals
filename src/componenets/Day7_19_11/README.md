@@ -59,12 +59,4 @@ src/
 ---
 
 ### Output
-![1and7](./1and7.png)
-![2](./2.png)
-![3](./3.png)
-![4](./4.png)
-![4validation](./4validation.png)
-![5](./5.png)
-![6and8](./6and8.png)
-![9and10before](./9and10before.png)
-![9and10](./9and10.png)
+![Output](./Output.png)
