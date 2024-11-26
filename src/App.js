@@ -2,7 +2,6 @@ import { BrowserRouter as Router, Routes,Route, Link, NavLink } from "react-rout
 import Home from "./componenets/Day8_26_11/Home";
 import AboutUs from "./componenets/Day8_26_11/AboutUs";
 import ContactUs from "./componenets/Day8_26_11/ContactUs";
-import { Nav } from "react-bootstrap";
 
 function App() {
   return (
@@ -15,6 +14,16 @@ function App() {
             <li><Link to='/contact-us'>Contact Us</Link></li>
           </ul>
         </nav>
+        {
+          /* *****Wraps <Link> with additional props for styling active and pending states.*****   
+          <nav>
+            <ul>
+              <li><NavLink to='/home' className="styles">Home</NavLink></li>
+              <li><NavLink to='/about-us' className="styles">About Us</NavLink></li>
+              <li><NavLink to='/contact-us' className="styles">Contact Us</NavLink></li>
+            </ul>
+          </nav> */
+        }
         <Routes>
           <Route path="/home" element={<Home/>}/>
           <Route path="/about-us" element={<AboutUs/>}/>
