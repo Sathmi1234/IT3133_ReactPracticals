@@ -1,11 +1,12 @@
 import { BrowserRouter as Router, Routes,Route, Link, NavLink } from "react-router-dom";
-import Home from "./componenets/Day8_26_11/Home";
-import AboutUs from "./componenets/Day8_26_11/AboutUs";
-import ContactUs from "./componenets/Day8_26_11/ContactUs";
+import Home from "./componenets/Day8_26_11/Ex1/Home";
+import AboutUs from "./componenets/Day8_26_11/Ex1/AboutUs";
+import ContactUs from "./componenets/Day8_26_11/Ex1/ContactUs";
 
 function App() {
   return (
     <div className="App">
+      {/*EXERCISE 1 */}
       <Router>
         <nav>
           <ul>
@@ -30,7 +31,7 @@ function App() {
           <Route path="/contact-us" element={<ContactUs/>}/>
         </Routes>
       </Router>
-
+      
     </div>
   );
 }
