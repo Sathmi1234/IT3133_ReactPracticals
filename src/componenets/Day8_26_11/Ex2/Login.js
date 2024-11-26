@@ -1,10 +1,14 @@
-import { Button } from "bootstrap";
+import { useNavigate } from "react-router-dom";
 
 export default function Login(){
+    const navigate=useNavigate();
+    const authenticate=()=>{
+        navigate('/dash')
+    }
     return(
         <div>
             <h1>Login Here</h1>
-            <Button>Login</Button>
+            <button onClick={authenticate}>Login</button>
         </div>
     )
 }
