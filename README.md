@@ -19,17 +19,17 @@ This repository is regularly updated with weekly practicals and assignments to s
 
 ---
 
-## 💻 Details about Practicals and Assignments
+## 💻 Practicals and Assignments
 
 | Date       |      |Details                                             |
 |------------|------|---------------------------------------------------|
-| 2024-10-08 | Day 2 | [View](./src/componenets/Day2_08_10/README.md)                      |
-| 2024-10-15 | Day 3 | [View](./src/componenets/Day3_15_10/README.md)                      |
-| 2024-10-22 | Day 4 | [View](./src/componenets/Day4_22_10/README.md)                      |
-| 2024-10-28 | Assignment 1 | [View](./src/componenets/Assignment1/README.md)               |
-| 2024-10-29 | Day 5 | [View](./src/componenets/Day5_29_10/README.md)                      |
-| 2024-11-05 | Day 6 | [View](./src/componenets/Day6_05_11/README.md)                      |
-| 2024-11-07 | Assignment 2 | [View](./src/componenets/Assignment2/README.md)               |
+| 2024-10-08 | Day 2 | [View](./src/componenets/Day2_08_10)                      |
+| 2024-10-15 | Day 3 | [View](./src/componenets/Day3_15_10)                      |
+| 2024-10-22 | Day 4 | [View](./src/componenets/Day4_22_10)                      |
+| 2024-10-28 | Assignment 1 | [View](./src/componenets/Assignment1)               |
+| 2024-10-29 | Day 5 | [View](./src/componenets/Day5_29_10)                      |
+| 2024-11-05 | Day 6 | [View](./src/componenets/Day6_05_11)                      |
+| 2024-11-07 | Assignment 2 | [View](./src/componenets/Assignment2)               |
 | 2024-11-19 | Assignment 3 | [View](https://github.com/Sathmi1234/2020ICT117_IT3133_Assignment3_StudentInformationPortal.git)               |
 | 2024-11-19 | Day 7 | [View](./src/componenets/Day7_19_11)                      |
 | 2024-11-22 | Assignment 4 | [View](https://github.com/Sathmi1234/IT3133_Assignment4_AnimalMatchingGame.git)                      |
