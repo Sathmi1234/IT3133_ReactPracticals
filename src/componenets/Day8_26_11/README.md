@@ -104,19 +104,7 @@ src/
 
 ## Output 
 
-<video controls width="600">
-  <source src="./Output1.mp4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video controls width="600">
-  <source src="./Output2.mp4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video controls width="600">
-  <source src="./Output3.mp4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video controls width="600">
-  <source src="./Output4.mp4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](Output1.mp4)
+[Watch the video](Output2.mp4)
+[Watch the video](Output3.mp4)
+[Watch the video](Output4.mp4)
