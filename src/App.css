@@ -44,7 +44,7 @@ body, ul {
 }
 
 .navbar {
-  background-color: #333;
+  background-color: #0d123d;
   padding: 10px 20px;
   display: flex;
   justify-content: center;
@@ -67,5 +67,5 @@ body, ul {
 }
 
 .navbar-link:hover {
-  color: #1e90ff;
+  color: #da1b1b;
 }
