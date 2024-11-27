@@ -104,7 +104,10 @@ src/
 
 ## Output 
 
-![Watch the video](Output1.mp4)
-![Watch the video](Output2.mp4)
-![Watch the video](Output3.mp4)
-![Watch the video](Output4.mp4)
+https://github.com/user-attachments/assets/b1f1be21-1c39-415b-8fc3-9ce80a414774
+
+https://github.com/user-attachments/assets/0c2fbab9-d8f1-444d-a51f-ae8395aece4d
+
+https://github.com/user-attachments/assets/63934652-7fe9-4048-8009-9a955e15f63d
+
+https://github.com/user-attachments/assets/cdf3f0f6-24bd-48f4-a4a8-ff2cca09ef92
