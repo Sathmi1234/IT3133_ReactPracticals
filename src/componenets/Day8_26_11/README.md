@@ -104,7 +104,7 @@ src/
 
 ## Output 
 
-[Watch the video](Output1.mp4)
-[Watch the video](Output2.mp4)
-[Watch the video](Output3.mp4)
-[Watch the video](Output4.mp4)
+![Watch the video](Output1.mp4)
+![Watch the video](Output2.mp4)
+![Watch the video](Output3.mp4)
+![Watch the video](Output4.mp4)
