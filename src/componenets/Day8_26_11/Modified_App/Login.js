@@ -44,8 +44,32 @@ export default function Login(){
                             <td></td>
                             <td>
                                 <tr>
-                                    <td><button onClick={authenticate}>Login</button></td>
-                                    <td><button onClick={clear}>Clear</button></td>
+                                    <td><button 
+                                            onClick={authenticate}
+                                            style={{
+                                                padding: '10px 20px',
+                                                backgroundColor: '#4CAF50',
+                                                color: 'white',
+                                                borderRadius: '5px',
+                                                cursor: 'pointer',
+                                                fontSize: '16px',
+                                            }}>
+                                            Login
+                                        </button>
+                                    </td>
+                                    <td><button 
+                                            onClick={clear}
+                                            style={{
+                                                padding: '10px 20px',
+                                                backgroundColor: '#da1b1b',
+                                                color: 'white',
+                                                borderRadius: '5px',
+                                                cursor: 'pointer',
+                                                fontSize: '16px',
+                                            }}>
+                                            Clear
+                                        </button>
+                                    </td>
                                 </tr>
                             </td>
                         </tr>

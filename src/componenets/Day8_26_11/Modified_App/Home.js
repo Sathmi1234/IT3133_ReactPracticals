@@ -8,7 +8,19 @@ export default function Home(){
     return(
         <div>
             <h1>Welcome!! this is Home Page</h1>
-            <button onClick={navigateTo}>Login</button>
+            <button 
+                onClick={navigateTo} 
+                style={{
+                    padding: '10px 20px',
+                    backgroundColor: '#4CAF50',
+                    color: 'white',
+                    borderRadius: '5px',
+                    cursor: 'pointer',
+                    fontSize: '16px',
+                }}>
+                Login
+            </button>
+
         </div>
     )
 }
