@@ -72,7 +72,6 @@ src/
 #### Router Setup
 - The `Router`, `Routes`, and `Route` elements are used to render these pages dynamically based on the URL.
 
----
 
 ### **Exercise 2**
 
@@ -89,7 +88,6 @@ src/
 #### Router Setup
 - The `Router` ensures the `Dashboard` is only accessible after successful authentication.
 
----
 ### **Modified App**
 
 #### Modifed app is a simple application build from the main concepts learned from Exercise 1 and Exercise 2
