@@ -1,3 +1,4 @@
+import { clear } from "@testing-library/user-event/dist/clear";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
@@ -21,6 +22,7 @@ export default function Login(){
             navigate('/dash')
         } else {
             alert('Incorrect Username or Password');
+            navigate('/')
         }        
     }
     
@@ -40,7 +42,12 @@ export default function Login(){
                         </tr>
                         <tr>
                             <td></td>
-                            <td><button onClick={authenticate}>Login</button></td>
+                            <td>
+                                <tr>
+                                    <td><button onClick={authenticate}>Login</button></td>
+                                    <td><button onClick={clear}>Clear</button></td>
+                                </tr>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
