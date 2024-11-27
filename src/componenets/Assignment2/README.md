@@ -72,3 +72,13 @@ src/
 ---
 
 ### Output
+
+![1and7](./output/1and7.png)
+![2](./output/2.png)
+![3](./output/3.png)
+![4](./output/4.png)
+![4validation](./output/4validation.png)
+![5](./output/5.png)
+![6and8](./output/6and8.png)
+![9and10](./output/9and10.png)
+![9and10before](./output/9and10before.png)

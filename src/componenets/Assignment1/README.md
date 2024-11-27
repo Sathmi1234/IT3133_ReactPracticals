@@ -82,8 +82,8 @@ src/
 ---
 
 ### Output
-![DarkMode](./DarkMode.png)
-![FirstButton](./FirstButton.png)
-![LastButton](./LastButton.png)
-![NextButton](./NextButton.png)
-![PreviousButton](./PreviousButton.png)
+![DarkMode](./output/DarkMode.png)
+![FirstButton](./output/FirstButton.png)
+![LastButton](./output/LastButton.png)
+![NextButton](./output/NextButton.png)
+![PreviousButton](./output/PreviousButton.png)
