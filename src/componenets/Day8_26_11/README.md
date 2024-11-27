@@ -1,7 +1,4 @@
-# Day 8
-
-# React Multi-Page Application
-
+# Day 8 ( 2024/11/26 )
 This React project demonstrates a **multi-page application** using **React Router** to handle navigation between different pages and user authentication. It includes two exercises: a basic navigation setup and a login-authentication system with conditional routing.
 
 ---
@@ -45,8 +42,16 @@ src/
 │   │   │   ├── AboutUs.js         
 │   │   │   ├── ContactUs.js       
 │   │   ├── Ex2/                   
-│   │       ├── Login.js           
-│   │       ├── Dashboard.js       
+│   │   |   ├── Login.js           
+│   │   |   ├── Dashboard.js  
+│   │   ├── Modified_App/                
+│   │   │   ├── Home.js            
+│   │   │   ├── AboutUs.js         
+│   │   │   ├── ContactUs.js       
+│   │   │   ├── Dashboard.js       
+│   │   │   ├── Login.js           
+│   │   │   ├── NavBar.js 
+│   │   │── ExerciseApp.js
 ├── App.js                         
 ├── index.js                       
 └── index.css                      
@@ -88,6 +93,11 @@ src/
 - The `Router` ensures the `Dashboard` is only accessible after successful authentication.
 
 ---
+### **Modified App**
+
+#### Modifed app is a simple application build from the main concepts learned from Exercise 1 and Exercise 2
+
+---
 
 ## Workflow
 
@@ -100,6 +110,15 @@ src/
 2. Valid credentials navigate to the `Dashboard`.
 3. Invalid credentials display an error message.
 
+### **Modified App**
+1. Users visit the `Home` page and can navigate to `About Us`, `Contact Us`, or `Login`.
+2. On the `Home` page, users can click a `Login` button to navigate to the `Login` page.
+3. Users enter their username and password on the `Login` page.
+4. If credentials are correct, users are redirected to the `Dashboard`.
+5. If credentials are incorrect, an error message is displayed, and users remain on the `Login` page.
+
 ---
 
 ## Output 
+
+https://github.com/user-attachments/assets/26cac8ca-c321-429b-9de3-6cc3db73a531

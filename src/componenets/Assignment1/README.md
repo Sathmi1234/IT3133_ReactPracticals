@@ -1,5 +1,4 @@
-# React Sculpture Gallery with Dark Mode
-
+# Assignment 1
 This React project is a **Sculpture Gallery App** showcasing various sculptures with their images, descriptions, and details. It demonstrates **parent-to-child** and **child-to-parent communication** using props and callback functions. It also includes a **dark mode toggle** for enhanced user experience.
 
 ---

@@ -1,3 +1,4 @@
+# Day 6 ( 2024/11/05 )
 This React application provides a **student management system** where users can add and view student details dynamically. It showcases the use of controlled components, array manipulation, and state management using `useState`.
 
 ---

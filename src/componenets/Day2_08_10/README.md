@@ -1,3 +1,4 @@
+# Day 2 ( 2024/10/08 )
 This project is a simple React.js application designed to demonstrate the fundamental concepts of React, including component-based architecture, props, state management, and dynamic rendering of content. The app showcases a list of famous personalities along with their achievements, using reusable components and external CSS for styling.
 
 ---

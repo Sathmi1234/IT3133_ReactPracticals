@@ -1,3 +1,4 @@
+# Day 7 ( 2024/11/19 )
 This React project demonstrates **parent-to-child** and **child-to-parent communication** using props and callback functions. It highlights how React's component interaction allows the parent component to update its state based on data passed from the child.
 
 ---

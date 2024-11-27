@@ -1,3 +1,4 @@
+# Day 3 ( 2024/10/15 )
 This project demonstrates the usage of React with **React-Bootstrap** for building a dynamic and interactive application. It includes components for managing books, displaying student information, and performing operations through parent-child communication with props.
 
 ---

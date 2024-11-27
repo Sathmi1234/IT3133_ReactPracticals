@@ -1,3 +1,4 @@
+# Assignment 2
 This React project implements a **Student Management System**, showcasing both form handling and dynamic list management. The application allows users to add, display, and delete student details while providing summary statistics.
 
 ---

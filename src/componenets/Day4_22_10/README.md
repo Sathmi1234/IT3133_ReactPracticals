@@ -1,3 +1,4 @@
+# Day 4 ( 2024/10/22 )
 This React project combines interactive features like alerts, carousel functionality, and a dynamically rendered artist gallery. It showcases state management with `useState`, component reusability, and integration with React-Bootstrap for responsive design.
 
 ---
