@@ -5,8 +5,6 @@ This React project demonstrates a **multi-page application** using **React Route
 
 ## Features
 
-### Exercise 1: Page Navigation
-
 1. **Static Pages**
    - Pages: `Home`, `About Us`, and `Contact Us`.
    - Each page is a separate component rendered via React Router.
@@ -15,17 +13,16 @@ This React project demonstrates a **multi-page application** using **React Route
    - Uses `<Link>` and `<NavLink>` for navigating between pages.
    - Implements basic navigation styling and active state.
 
-### Exercise 2: Login and Dashboard
 
-1. **User Authentication**
+3. **User Authentication**
    - A `Login` page with form inputs for username and password.
    - Validates user credentials against hardcoded values (`admin/admin1234`).
 
-2. **Conditional Routing**
+4. **Conditional Routing**
    - Upon successful login, navigates to a `Dashboard` page.
    - Displays an error alert for invalid credentials.
 
-3. **Dynamic State Handling**
+5. **Dynamic State Handling**
    - Manages user input with React's `useState` hook.
    - Updates the state as the user interacts with the form.
 
