@@ -4,17 +4,24 @@ import AboutUs from "./componenets/Day8_26_11/Ex1/AboutUs";
 import ContactUs from "./componenets/Day8_26_11/Ex1/ContactUs";
 import Login from "./componenets/Day8_26_11/Ex2/Login";
 import Dashboard from "./componenets/Day8_26_11/Ex2/Dashboard";
+import './App.css'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       {/*EXERCISE 1*/}
       <Router>
-        <nav>
-          <ul>
-            <li><Link to='/home'>Home</Link></li>
-            <li><Link to='/about-us'>About Us</Link></li>
-            <li><Link to='/contact-us'>Contact Us</Link></li>
+        <nav className="navbar">
+          <ul className="navbar-list">
+            <li className="navbar-item">
+              <Link to="/home" className="navbar-link">Home</Link>
+            </li>
+            <li className="navbar-item">
+              <Link to="/about-us" className="navbar-link">About Us</Link>
+            </li>
+            <li className="navbar-item">
+              <Link to="/contact-us" className="navbar-link">Contact Us</Link>
+            </li>
           </ul>
         </nav>
         {
