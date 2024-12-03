@@ -28,15 +28,15 @@ src/
 ├── components/
 │   ├── ICAE01/
 |   |   ├── components/
-│   │   |       |── Product.js
-│   │   |       |── Products.js
-│   │   |       ├── Cart.js
-│   │   |       ├── FlowerDB.js
+│   │   |      |── Product.js
+│   │   |      |── Products.js
+│   │   |      ├── Cart.js
+│   │   |      ├── FlowerDB.js
 │   │   ├── assets/
-│   │   │   ├── CSS/
-│   │   │   │   ├── layout.css
-│   │   │   ├── image/
-│   │   │       ├── [flower images]
+│   │   │      |── CSS/
+│   │   │      │   ├── layout.css
+│   │   │      ├── image/
+│   │   │          ├── [flower images]
 ├── App.js
 └── index.js
 ```
